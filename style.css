@@ -1,0 +1,194 @@
+.main-container{
+    /* display: flex; */
+    
+}
+.container1{
+    display:flex;
+    gap: 20cm;
+}
+.inner-container1{
+    display: flex;
+}
+.inner-container2{
+    display: flex;
+}
+.call{
+    margin-right: 3cm;
+}
+
+.items{
+    display: flex;
+    gap :2cm;
+    margin-top: 3cm;
+    margin-left: -50cm;
+}#home{
+    color:orange;
+}
+.about{
+    font-size: xx-large;
+}
+.home-page{
+    width: 60%;
+    height: 30%;
+}
+
+
+#riaad{
+    width: 80%;
+    height: 50%;
+}
+.section2{
+    display: flex;
+    margin-top: 2cm;
+}
+.company{
+    display: flex;
+    gap: 5cm;
+}
+.leaving{
+    margin-top: 2cm;
+    gap: 15cm;
+}
+.leading{
+    margin-right: 5cm;
+}
+#we{
+    color: orange;
+}
+.year{
+    display: flex;
+    margin-left: 3cm;
+    margin-top: 2cm;
+}
+.section3{
+    margin-top: 3cm;
+}
+.storage{
+    background-color: blue;
+    color: white;
+    text-size-adjust: 5px;
+}
+.verified{
+    width: 20%;
+    height:15%
+}
+#business{
+    width: 20%;
+    height: 15%;
+}
+
+
+
+.testimonials{
+    gap:2cm;
+    margin-top: 3cm;
+}
+.our{
+    text-align: center;
+}
+.moling{
+    display: flex;
+}
+#quotes{
+    margin-left: 3cm;
+}
+.christine{
+    margin-left: 2cm;
+    
+}
+.signup{
+    text-align: center;
+}
+.address{
+    display: flex;
+    gap: 30cm;
+}
+.blog{
+    text-align: center;
+    margin-top: 3cm;
+}
+.home{
+    background-image:url(homeimage.jpg) ;
+    height: 50%;
+    width: 30;
+
+}
+#article{
+    height: 45%;
+    width: 55;
+}
+.choice{
+    background-image: url(imagechoice.jpeg);
+    height: 50% ;
+    width: 30%;
+}
+#making{
+    height: 50%;
+    width: 30%;
+}
+.boomer{
+    background-image: url(boomersimage.web);
+    height: 80%;
+    width: 70%;
+}
+#nesters{
+    height: 50%;
+    width: 30%;
+}
+#customer{
+    height: 45%;
+    width: 55%;
+}
+.helping{
+    display: flex;
+    background-color: orange;
+    gap: 20cm;
+}
+.discover{
+    border: 1px black;
+ 
+}
+.last{
+    display: flex;
+    gap: 4cm;
+    background-color: black;
+    color: white;
+}
+.services{
+    text-align: center;
+}
+.services-container{
+    display: flex;
+    gap: 8cm;
+}
+.step{
+    display: flex;
+    margin-top: 3cm;
+    gap: 4cm;
+}
+.ipsum{
+    display: flex;
+    margin-top: 3cm;
+    gap: 5cm;
+}
+.company{
+    display: flex;
+    margin-top: 3cm;
+}
+.icons{
+    gap: 2cm;
+    margin-bottom: 1cm;
+    background-color: black;
+    color: white;
+}
+.copyright{
+    text-align: center;
+}
+#read{
+    color: orange;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
