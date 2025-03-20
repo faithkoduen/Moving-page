@@ -2,14 +2,14 @@
     /* display: flex; */
     
 }
-.container1{
+.first-container{
     display:flex;
     gap: 20cm;
 }
-.inner-container1{
+.hello{
     display: flex;
 }
-.inner-container2{
+.phone{
     display: flex;
 }
 .call{
@@ -37,7 +37,7 @@
     width: 80%;
     height: 50%;
 }
-.section2{
+.learn{
     display: flex;
     margin-top: 2cm;
 }
@@ -60,7 +60,7 @@
     margin-left: 3cm;
     margin-top: 2cm;
 }
-.section3{
+.what-we-do{
     margin-top: 3cm;
 }
 .storage{
@@ -201,8 +201,8 @@
 }
 .form{
     display: flex;
-    background-color: blue;
-    gap: 2cm;
+    /* background-color: blue; */
+    /* gap: 2cm; */
 
 }
 .bookusnow{
