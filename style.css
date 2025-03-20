@@ -103,33 +103,40 @@
     display: flex;
     gap: 30cm;
 }
+.subscribe{
+    background-color: black;
+    color: white;
+}
 .blog{
     text-align: center;
     margin-top: 3cm;
 }
+.pictures{
+    display: flex;
+}
 .home{
     background-image:url(homeimage.jpg) ;
-    height: 50%;
-    width: 30;
+    height: 20%;
+    width: 10;
 
 }
 #article{
-    height: 45%;
-    width: 55;
+    height: 20%;
+    width: 10;
 }
 .choice{
     background-image: url(imagechoice.jpeg);
-    height: 50% ;
-    width: 30%;
+    height: 90% ;
+    width: 75%;
 }
 #making{
-    height: 50%;
+    height: 70%;
     width: 30%;
 }
 .boomer{
     background-image: url(boomersimage.web);
-    height: 80%;
-    width: 70%;
+    height: 90%;
+    width: 75%;
 }
 #nesters{
     height: 50%;
@@ -190,5 +197,23 @@
 .footer{
     background-color: black;
     text-align: center;
+    color: white;
+}
+.form{
+    display: flex;
+    background-color: blue;
+    gap: 2cm;
+
+}
+.bookusnow{
+    display: flex;
+}.request{
+    background-color: orange;
+    width: 10cm;
+    height: 7cm;
+    font-size: large;
+}
+.button{
+    background-color: orange;
     color: white;
 }
