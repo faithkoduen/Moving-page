@@ -2,7 +2,7 @@
     /* display: flex; */
     
 }
-.first-container{
+.header{
     display:flex;
     gap: 20cm;
 }
@@ -155,7 +155,7 @@
     border: 1px black;
  
 }
-.last{
+.footer{
     display: flex;
     gap: 4cm;
     background-color: black;
@@ -194,7 +194,7 @@
 #read{
     color: orange;
 }
-.footer{
+.copyright{
     background-color: black;
     text-align: center;
     color: white;
